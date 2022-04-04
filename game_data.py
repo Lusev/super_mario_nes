@@ -1,0 +1,22 @@
+level_0 = {
+    'constraint_block': './Assets/Levels/levels/Level_0_constraint_block.csv',
+    'background': './Assets/Levels/levels/Level_0_background.csv',
+    'empty_block': './Assets/Levels/levels/Level_0_empty_block.csv',
+    'multi_coin_block': './Assets/Levels/levels/Level_0_multi_coin_block.csv',
+    'invisible_block': './Assets/Levels/levels/Level_0_invisible_block.csv',
+    'extra_live': './Assets/Levels/levels/Level_0_extra_live.csv',
+    'ground': './Assets/Levels/levels/Level_0_ground.csv',
+    'red_bricks': './Assets/Levels/levels/Level_0_red_bricks.csv',
+    'pipes': './Assets/Levels/levels/Level_0_pipes.csv',
+    'stair_blocks': './Assets/Levels/levels/Level_0_stair_blocks.csv',
+    'coins_blocks': './Assets/Levels/levels/Level_0_coins_blocks.csv',
+    'coins': './Assets/Levels/levels/Level_0_coins.csv',
+    'mushroom': './Assets/Levels/levels/Level_0_mushroom.csv',
+    'fire': './Assets/Levels/levels/Level_0_fireflowers.csv',
+    'stars': './Assets/Levels/levels/Level_0_stars.csv',
+    'pipes_enterable': './Assets/Levels/levels/Level_0_pipes_enterable.csv',
+    'goombas': './Assets/Levels/levels/Level_0_goombas.csv',
+    'koopas': './Assets/Levels/levels/Level_0_koopas.csv',
+    'item_blocks': './Assets/Levels/levels/Level_0_coins_blocks.csv',
+    'mario': './Assets/Levels/levels/Level_0_mario.csv'
+    }
