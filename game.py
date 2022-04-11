@@ -7,7 +7,7 @@ from score_display import Score_Display
 
 pg.init()
 screen_width = 500
-screen_height = 500
+screen_height = 239
 screen = pg.display.set_mode((screen_width, screen_height))
 clock = pg.time.Clock()
 level_01 = Level(level_0, screen)

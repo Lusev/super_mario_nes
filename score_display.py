@@ -9,7 +9,7 @@ class Score_Display:
         #coins
         self.coin = pg.image.load('./Assets/Graphics/coin/coin_0.png').convert_alpha()
         self.coin_rect = self.coin.get_rect(topleft = (80,10))
-        self.font = pg.font.Font('C:/Users/edgar/AppData/Local/Microsoft/Windows/Fonts/SuperPlumberBrothers.ttf', 14)
+        self.font = pg.font.Font('./Assets/Fonts/SuperPlumberBrothers.ttf', 14)
         
         #game over Mario
         self.mario_gameover = pg.image.load('./Assets/Graphics/mario/idle_small/1.png').convert_alpha()
